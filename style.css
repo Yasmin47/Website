@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #707793; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: ##A16089;}
+html, body {background: #707793; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #A16089;}
 
 .clear {clear: both;}
 
@@ -100,7 +100,7 @@ section:last-child {
 }
 
 .sectionContent img {
-	border: 2px solid #E52A6F;
+	border: 2px solid #2E6A67;
 }
 
 .subDetails {
@@ -114,7 +114,7 @@ section:last-child {
 	column-count:3;
 	margin-bottom: 20px;
 	font-size: 1em;
-	color: #E52A6F;
+	color: #3C6645;
 }
 
 .keySkills ul li {
