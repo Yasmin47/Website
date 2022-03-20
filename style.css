@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+html, body {background: #707793; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: ##A16089;}
 
 .clear {clear: both;}
 
@@ -19,7 +19,7 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #F2C4CE;
+	color: #2F721C;
 }
 
 #cv {
@@ -31,8 +31,8 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
-	background: #4F4F51;
+	border-bottom: 2px solid #C38D93;
+	background: #F4DECB;
 }
 
 #name h1 {
