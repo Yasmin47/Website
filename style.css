@@ -84,6 +84,7 @@ section:last-child {
 
 .sectionTitle img {
 	width: 100%;
+	width="1000" width: 10px;
 }
 
 .sectionContent h2 {
@@ -122,6 +123,6 @@ section:last-child {
 }
 
 img {
-	width="1000" width: 10px
+	width="1000" width: 10px;
 }
 
